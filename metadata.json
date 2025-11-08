@@ -1,0 +1,5 @@
+{
+  "name": "Omni ERP Suite",
+  "description": "A comprehensive, modern, and user-friendly ERP solution designed to streamline business operations. This application provides a conceptual UI for various modules including Point-of-Sale, Inventory, Human Resources, and CRM, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
